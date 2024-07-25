@@ -48,9 +48,9 @@ public class MainActivity extends AppCompatActivity {
 
     ArrayList<CryptoModel> cryptoModels;
     private String BASE_URL = "https://www.okx.com/";
-    private String apiKey = "127309e3-4060-4d65-b553-dfc642240222";
-    private String apiSecret = "6FE81051E92ED3858144C3D23325E811";
-    private String passphrase = "Yugoslavya34.";
+    private String apiKey = "***";
+    private String apiSecret = "***";
+    private String passphrase = "***";
     private Retrofit retrofit;
     private CryptoAPI cryptoAPI;
     RecyclerView recyclerView;
